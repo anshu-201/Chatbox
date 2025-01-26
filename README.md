@@ -6,4 +6,4 @@ Features:
 Real-time messaging functionality
 User-friendly interface
 Responsive design for all devices
-Lightweight and easy to integrate
+Lightweight and easy to integrate.
